@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YajurAgarwal
-- 👀 I’m interested in ML Data Science 
+- 👀 I’m interested in ML and Data Science 
 - 🌱 I’m currently learning Python
 
 
