@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @YajurAgarwal
-- 👀 I’m interested in ML and Data Science 
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in competitive programming and Web Development
 
 
 <!---
