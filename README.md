@@ -1,4 +1,4 @@
-# 💫 About Me:-
+# 💫 About Me:
 🔭 I’m currently working on CFD with applied Deep Learning<br>🤝 I’m looking for help with OpenFoam<br>🌱 I’m currently learning DSA, CFD, ML, and Deep Learning<br>💬 Ask me about Nothing<br>⚡ Fun fact I also do Competitive Programming  
 
 
